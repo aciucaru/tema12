@@ -1,0 +1,153 @@
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
+calculeazaTotalCos
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
+valideazaInputuriLogin: inceput rularea
+valideazaInputUsername: inceput rularea, validare: username
+valideazaInputNume: inceput rularea, validare: parola
+valideazaInputuriLogin: validare cu succes
+ClientRepo::verificaClient: inceput rularea
+ClientRepo::verificaClient: username si parola validate
+loginSession: sesiune initializata: username: andrei, email: andrei@gmail.com
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
+calculeazaTotalCos
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
+calculeazaTotalCos
+calculeazaTotalCos
+nu s-a facut POST sau input-ul submit lipseste
+nu s-a facut POST sau input-ul submit lipseste
+calculeazaTotalCos
+adaugat produs in cos: id: 1
+adaugat produs in cos: id: 1
+adaugat produs in cos: id: 1
+adaugat produs in cos: id: 2
+nu s-a facut POST sau input-ul submit lipseste
+nu s-a facut POST sau input-ul submit lipseste
+valideazaInputuriRegister: inceput rularea
+valideazaInputNume: inceput rularea, validare: nume
+valideazaInputUsername: inceput rularea, validare: username
+valideazaInputEmail: inceput rularea, validare: email
+valideazaInputNume: inceput rularea, validare: parola
+nu s-a facut POST sau input-ul submit lipseste
+valideazaInputuriRegister: inceput rularea
+valideazaInputNume: inceput rularea, validare: nume
+valideazaInputUsername: inceput rularea, validare: username
+valideazaInputEmail: inceput rularea, validare: email
+valideazaInputNume: inceput rularea, validare: parola
+valideazaInputuriRegister: validare cu succes
+ClientRepo::contineUsername: inceput rularea
+ClientRepo::contineUsername: nu s-a gasit username-ul
+ClientRepo::contineEmail: inceput rularea
+ClientRepo::contineEmail: nu s-a gasit email-ul
+ClientRepo::adaugaClient: inceput rularea
+ClientRepo::adaugaClient: client adaugat cu succes, id = 11
+nu s-a facut POST sau input-ul submit lipseste
+valideazaInputuriLogin: inceput rularea
+valideazaInputUsername: inceput rularea, validare: username
+valideazaInputNume: inceput rularea, validare: parola
+valideazaInputuriLogin: validare cu succes
+input username: mihai
+ClientRepo::verificaClient: inceput rularea
+ClientRepo::verificaClient: username si parola validate
+loginSession: inceput rularea
+loginSession: sesiune initializata: username: mihai, email: mihai@gmail.ocm
+input.php: login-ul a avut succes
+adaugat produs in cos: id: 3
+adaugat produs in cos: id: 4
+adaugat produs in cos: id: 5
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
+calculeazaTotalCos
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+ProdusRepo::iaProdus: inceput rularea
+ProdusRepo::iaProdus: produs luat cu succes
+iaProduseleDinCos
