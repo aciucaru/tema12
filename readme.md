@@ -1,5 +1,2 @@
 tema curs 12 - PHP
-
-![screenshot](https://github.com/aciukru/tema12/blob/master/media/Tema12.png?raw=true)
-
-<img src="https://github.com/aciukru/tema12/blob/master/media/Tema12.png" alt="screenshot"/>
+![Screenshot](https://user-images.githubusercontent.com/106471590/233858671-a6adc258-501c-47a8-86fd-985a7e5e08c8.png)
